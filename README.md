@@ -72,4 +72,6 @@ Decision trees are widely used in various domains for their interpretability and
 
 <img width="367" alt="Image" src="https://github.com/user-attachments/assets/5695c609-d9a7-4f1e-874d-d2591cdc485f" />
 
+<img width="405" alt="Image" src="https://github.com/user-attachments/assets/b6b0a74e-28c8-42cf-8c72-6e7f89a6b51e" />
+
 
