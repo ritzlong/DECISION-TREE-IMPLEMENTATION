@@ -12,18 +12,24 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-##TASK DESCRIPTION:Building and Visualizing a Decision Tree Model Using Scikit-Learn
+#TASK DESCRIPTION:Building and Visualizing a Decision Tree Model Using Scikit-Learn
 
 The given task was to build and visualize a Decision Tree model using the Scikit-learn library in Python to classify or predict outcomes on a chosen dataset. The goal was to demonstrate an understanding of decision tree classification, data preprocessing, model building, evaluation, and visualization, all compiled into a structured and interpretable notebook. The dataset chosen for this task was the Titanic dataset, which is widely used for classification tasks in machine learning and provides a real-world scenario of predicting survival based on various passenger features.
 
-Tools and Technologies Used
+Tools and Technologies Used:
+
 The programming language used for this task was Python, and the entire implementation was carried out on Google Colab, which is an online cloud-based platform that supports Python notebooks and allows easy access to GPU/TPU, collaboration, and sharing.
 
 Several essential Python libraries were used in this notebook:
+
 •	Pandas: For loading and manipulating the dataset.
+
 •	NumPy: For numerical operations and array handling.
+
 •	Seaborn: For data loading and visualization (e.g., confusion matrix).
+
 •	Matplotlib: For plotting graphs and trees.
+
 •	Scikit-learn (sklearn): The core machine learning library used to split the dataset, train the Decision Tree Classifier, evaluate model performance, and visualize the decision tree.
 
 Modules includes:
@@ -49,10 +55,15 @@ Predictions were made on the test set using the trained model. The model's perfo
 Applications
 
 Decision trees are widely used in various domains for their interpretability and simplicity. The Titanic survival prediction is just a classic example of a binary classification problem. Real-world applications include:
+
 •	Medical diagnosis (e.g., predicting disease based on symptoms)
+
 •	Loan approval systems
+
 •	Customer churn prediction
+
 •	Fraud detection
+
 •	Risk assessment models in insurance
 
 
